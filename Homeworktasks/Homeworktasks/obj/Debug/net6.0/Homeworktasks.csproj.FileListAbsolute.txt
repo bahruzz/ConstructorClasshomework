@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.AssemblyInfo.cs
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\bin\Debug\net6.0\Homeworktasks.exe
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\bin\Debug\net6.0\Homeworktasks.deps.json
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\bin\Debug\net6.0\Homeworktasks.runtimeconfig.json
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\bin\Debug\net6.0\Homeworktasks.dll
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\bin\Debug\net6.0\Homeworktasks.pdb
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.dll
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\refint\Homeworktasks.dll
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.pdb
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\Homeworktasks.genruntimeconfig.cache
+C:\Users\user\Desktop\Inheritancehome task\Homeworktasks\Homeworktasks\obj\Debug\net6.0\ref\Homeworktasks.dll
